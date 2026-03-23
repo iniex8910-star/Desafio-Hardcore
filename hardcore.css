@@ -7,7 +7,7 @@ body{
     font-family: monospace;
 }
 .meu-botao {
-    background-color: #007bff;
+    background-color:blue;
     color: white;
     padding: 15px 30px;
     border: none;
@@ -17,6 +17,6 @@ body{
     transition: 0.3s;
 }
 .meu-botao:hover {
-    background-color: #0056b3;
+    background-color: darkblue;
     transform: scale(1.1);
 }
