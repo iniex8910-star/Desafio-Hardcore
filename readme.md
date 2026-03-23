@@ -1,0 +1,1 @@
+# oi professor a primeira parte eu acho que tá feita.
